@@ -25,7 +25,9 @@ Gerazov B. and S. Markovska-Simoska, “EEGpy: A system for the analysis of cohe
 ```
 
 Branislav Gerazov
+
 [DIPteam](http://dipteam.feit.ukim.edu.mk/)
+
 [Faculty of Electrical Engineering and Information Technologies](http://feit.ukim.edu.mk)
-Ss Cyril and Methodius University of Skopje,
-Macedonia
+
+Ss Cyril and Methodius University of Skopje, Macedonia
