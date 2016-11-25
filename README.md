@@ -3,7 +3,7 @@ October 2015
 
 EEGpy is a system for the analysis of EEG data.  The system features all the necessary preprocessing of the input EEG signals, including artifact detection and removal, and is focused on the analysis of coherence between the different EEG electrodes, i.e. the different brain regions that they correspond to. We see the presented system as a good foundation for further extension as it is applied to different areas of EEG analysis. EEGpy is free software and we hope that it will be useful to the research community.
 
-To run EEGpy, clone it from `git`, place your EEG signals in `eegs/` and execute `eeg_coherence_master.py`, `eeg_load_and_clean_data.py`, and `eeg_process_data_loop.py` in a sequence. For convenience a single EEG recording is included in the repo.
+To run EEGpy, clone it from `git`, place your EEG signals in `eegs/` and execute `eeg_load_and_clean_data.py`, `eeg_process_data_loop.py`, and `eeg_coherence_master.py` in a sequence. For convenience a single EEG recording is included in the repo.
 
 At the moment EEGpy supports reading EEGs stored in the EDF file format through the `edfplus.py` module which is a part of Boris Reuderink's `eegtools` set of libraries that can be found [here.](https://github.com/breuderink/eegtools)
 
